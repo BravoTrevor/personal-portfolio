@@ -61,9 +61,3 @@ Javascript Files:
  - Prism.js (https://prismjs.com/)
  - Basic Lightbox (https://basiclightbox.electerious.com/)
  - MailtoUI (https://mailtoui.com/)
-
-
-
-Thanks for downloading from Styleshout :)
-
-
